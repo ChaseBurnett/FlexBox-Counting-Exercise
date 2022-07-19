@@ -1,0 +1,121 @@
+.flex_practice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: rgba(4, 105, 248, 0.999);
+    
+    
+}
+.one.number{
+    order: 0;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+   
+}
+.one.number:hover{
+    background-color: red;
+    color: ivory;
+}
+.two.number{
+    order: 1;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+}
+.two.number:hover{
+    background-color: red;
+    color: ivory;
+}
+.three.number{
+    order: 2;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+}
+.three.number:hover{
+    background-color: red;
+    color: ivory;
+}
+.four.number{
+    order: 3;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+}
+.four.number:hover{
+    background-color: red;
+    color: ivory;
+}
+.five.number{
+    order: 4;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+}
+.five.number:hover{
+    background-color: red;
+    color: ivory;
+}
+.six.number{
+    order: 5;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+}
+.six.number:hover{
+    background-color: red;
+    color: ivory;
+}
+.seven.number{
+    order: 6;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+}
+.seven.number:hover{
+    background-color: red;
+    color: ivory;
+}
+.eight.number{
+    order: 7;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+}
+.eight.number:hover{
+    background-color: red;
+    color: ivory;
+}
+.nine.number{
+    order: 8;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+}
+.nine.number:hover{
+    background-color: red;
+    color: ivory;
+}
+.ten.number{
+    order: 9;
+    border: solid yellow 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: whitesmoke;
+}
+.ten.number:hover{
+    background-color: red;
+    color: ivory;
+}
